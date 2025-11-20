@@ -1,7 +1,7 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Northrop Grumman"
+role: "DevOps Engineer"
+dateStart: "01/01/2026"
 dateEnd: "Current"
 ---
 
